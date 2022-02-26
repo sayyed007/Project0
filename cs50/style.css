@@ -1,0 +1,66 @@
+.navBar{
+    text-align: right;
+}
+
+.navBar a{
+    
+    text-decoration: none;
+    color: black;
+    padding: 15px 18px;
+}
+.navBar a:hover {
+    text-decoration: underline;
+}
+.main-container {
+    text-align: center;
+    margin: 250px;
+}
+.search_icon{
+    width:640px;
+    margin: 0 auto;
+    border:1px solid gray;
+    border-radius: 25px;
+}
+.search_bar{
+    width: 550px;
+    font-size:18px;
+    border:none;
+    outline: none;
+    padding-top: 15px;
+    padding-left: 15px;
+    margin-bottom:10px;
+}
+.icon{
+    position: relative;
+    height: 15px;
+    margin-top:10px;
+    width: 15px;
+    margin-left:-40px; 
+}
+.btn{
+    margin-top:2%;
+}
+.btn_search{
+    height: 40px;
+    border:none;
+    color: #646464;
+    background: #f2f2f2;
+}
+.lucky_search{
+    height: 40px;
+    border:none;
+    color: #646464;
+    background: #f2f2f2;
+}
+.btn_search:hover{
+    color:rgb(37, 37, 37);
+    border:1px solid lightgray;
+}
+.lucky_search:hover{
+    color:rgb(37, 37, 37);
+    border:1px solid lightgray;
+}
+.image{
+    height: 100px;
+    width: 300px;
+}

@@ -1,0 +1,51 @@
+.navBar{
+    text-align: right;
+}
+
+.navBar a{
+    
+    text-decoration: none;
+    color: black;
+    padding: 15px 18px;
+}
+.navBar a:hover {
+    text-decoration: underline;
+}
+h2{
+    color: #F28B82;
+    font: 20px arial sans-serif;
+    margin: 20px 0px 0px 20px;
+    
+}
+.col-1 {
+    float: left;
+    width: 16%;
+    padding: 15px;
+    height: 15px; 
+  }
+  .col-3 {
+    float: left;
+    width: 25%;
+    padding: 15px;
+    height: 15px; 
+  }
+.col-2{
+    float: left;
+    width: 38%;
+    padding: 10px;
+    height: 15px;
+}
+  .s-bar{
+      width: 450px;
+  }
+  .btn{
+      background: #8ab4f8;
+      margin: 20px 580px;
+      color: white;
+      
+  }
+  .btn:hover{
+    color:rgb(37, 37, 37);
+    border:1px solid lightgray;
+}
+  
